@@ -5,4 +5,6 @@
 # 4d-example-mermaid
 Use mermaid from 4D
 
+[dependencies](https://github.com/miyako/4d-example-mermaid/blob/main/mermaid/Project/Sources/dependencies.json)
+
 * [`miyako/mermaid`](https://github.com/miyako/mermaid)
