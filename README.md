@@ -9,4 +9,4 @@ Use mermaid from 4D
 
 * [`miyako/mermaid`](https://github.com/miyako/mermaid)
 
-<img width="1213" height="797" alt="" src="https://github.com/user-attachments/assets/b9b8fb4d-51b1-400d-be58-6e0dccdce35f" />
+<img width="1213" height="797" alt="" src="https://github.com/user-attachments/assets/845ce60b-b98b-4633-9d6b-57b5e240a1f5" />
