@@ -1,0 +1,9 @@
+{
+	"version": 2100,
+	"dependencies": {
+		"mermaid": {
+			"github": "miyako/mermaid",
+			"version": "latest"
+		}
+	}
+}
